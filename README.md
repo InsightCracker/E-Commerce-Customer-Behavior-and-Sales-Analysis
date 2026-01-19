@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer Behavior and Sales Dataset
+# 🛒 E-Commerce Customer Behavior and Sales Analysis
 
 ## 📊 Executive Summary
 This report presents an overview of e-commerce customer behavior and sales performance for the 2023–2024 period, analyzed using SQL and Power BI. Total sales amounted to ₺4.92 million from 5,000 customers, with an average order value of ₺983.11. Electronics, Home & Garden, and Sports were the top-performing categories, while Books and Food recorded the lowest sales. Istanbul led all cities with ₺1.33 million in revenue, followed by Ankara and Izmir.
